@@ -1,0 +1,8 @@
+To install json server and work with RXJS:
+npm install -g json-server
+
+starts with json server including the db.json file:
+json-server --watch db.json
+
+
+BrowserModeule: imports and re-export common Modules 

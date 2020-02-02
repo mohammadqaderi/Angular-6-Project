@@ -1,0 +1,80 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mahmood",
+      "contactPreference": "phone",
+      "phone": "0785189906",
+      "email": "sami@dell.com",
+      "skills": [
+        {
+          "skillName": "Java",
+          "experienceInYears": 5,
+          "proficiency": "advance"
+        },
+        {
+          "skillName": "PHP",
+          "experienceInYears": 3,
+          "proficiency": "advance"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Ahmad",
+      "contactPreference": "email",
+      "phone": "031012131",
+      "email": "Ahmad@dell.com",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": 1,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "C++",
+          "experienceInYears": 4,
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "Jehad",
+      "contactPreference": "email",
+      "email": "jehad@dell.com",
+      "phone": "311331113113",
+      "skills": [
+        {
+          "skillName": "logic",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "discrete",
+          "experienceInYears": "2",
+          "proficiency": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "Adam John",
+      "contactPreference": "email",
+      "email": "adam2@dell.com",
+      "phone": "null",
+      "skills": [
+        {
+          "skillName": "android",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "web-developer",
+          "experienceInYears": "4",
+          "proficiency": "intermediate"
+        }
+      ]
+    }
+  ]
+}
